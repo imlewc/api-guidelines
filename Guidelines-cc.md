@@ -14,9 +14,9 @@ Document editors: John Gossman (C+E), Chris Mullins (ASG), Gareth Jones (ASG), R
 
 # Microsoft REST API Guidelines
 
-## 1. Abstract
-The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
-To provide the smoothest possible experience for developers on platforms following the Microsoft REST API Guidelines, REST APIs SHOULD follow consistent design guidelines to make using them easy and intuitive.
+## 1. Abstract 摘要
+The Microsoft REST API Guidelines, as a design principle(原则), encourages(鼓励) application developers to have resources accessible to them via a RESTful HTTP interface.
+To provide the smoothest(最顺滑) possible experience for developers on platforms following the Microsoft REST API Guidelines, REST APIs SHOULD follow consistent design guidelines to make using them easy and intuitive(直接).
 
 This document establishes the guidelines Microsoft REST APIs SHOULD follow so RESTful interfaces are developed consistently.
 
@@ -28,15 +28,15 @@ This document establishes the guidelines Microsoft REST APIs SHOULD follow so RE
 - [2. Table of contents](#2-table-of-contents)
 - [3. Introduction](#3-introduction)
     - [3.1. Recommended reading](#31-recommended-reading)
-- [4. Interpreting the guidelines](#4-interpreting-the-guidelines)
+- [4. Interpreting(翻译) the guidelines](#4-interpreting-the-guidelines)
     - [4.1. Application of the guidelines](#41-application-of-the-guidelines)
     - [4.2. Guidelines for existing services and versioning of services](#42-guidelines-for-existing-services-and-versioning-of-services)
     - [4.3. Requirements language](#43-requirements-language)
     - [4.4. License](#44-license)
-- [5. Taxonomy](#5-taxonomy)
+- [5. Taxonomy(分类)](#5-taxonomy)
     - [5.1. Errors](#51-errors)
-    - [5.2. Faults](#52-faults)
-    - [5.3. Latency](#53-latency)
+    - [5.2. Faults(缺点)](#52-faults)
+    - [5.3. Latency(潜在)](#53-latency)
     - [5.4. Time to complete](#54-time-to-complete)
     - [5.5. Long running API faults](#55-long-running-api-faults)
 - [6. Client guidance](#6-client-guidance)
